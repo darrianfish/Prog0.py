@@ -1,2 +1,7 @@
-#Commet print("Darrianweiss") print("Darrian Weiss")
+# This program prints two variations of the name "Darrian Weiss" and demonstrates the required format.
 
+# Print "Darrianweiss" (single word, no spaces)
+print("Darrianweiss")
+
+# Print "Darrian Weiss" (two words, separated by a space)
+print("Darrian Weiss")
