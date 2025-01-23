@@ -1,7 +1,4 @@
-# This program prints two variations of the name "Darrian Weiss" and demonstrates the required format.
+# comment
+Darrianweiss
+Darrian Weiss
 
-# Print "Darrianweiss" (single word, no spaces)
-print("Darrianweiss")
-
-# Print "Darrian Weiss" (two words, separated by a space)
-print("Darrian Weiss")
